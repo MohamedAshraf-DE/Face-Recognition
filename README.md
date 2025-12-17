@@ -1,6 +1,4 @@
-This is an excellent README. Below is the same structure and style, but adapted to your ORL Face Recognition Lab project with the background image at the very top, just like the MAGIC README.
 
-text
 # ORL Face Recognition Lab (PCA / LDA)
 
 ![ORL Face Lab](face.jpeg)
